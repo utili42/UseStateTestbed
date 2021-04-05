@@ -1,0 +1,9 @@
+{
+  "name": "use-state-testbed",
+  "version": "0.0.0",
+  "description": "UseStateTestbed",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
